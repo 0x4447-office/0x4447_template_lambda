@@ -59,8 +59,7 @@ typings/
 
 # next.js build output
 .next
-*.plan.pdf
-*.pdf
 
 # other
 **/*.DS_Store
+.env

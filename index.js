@@ -1,7 +1,7 @@
 let AWS = require("aws-sdk");
 
 //
-//	LAMBDA_DESCRIPTION
+//	EXPLAIN_WHAT_THIS_LAMBDA_DOES
 //
 exports.handler = (event) => {
 
@@ -11,6 +11,10 @@ exports.handler = (event) => {
 		//	1. This container holds all the data to be passed around the chain.
 		//
 		let container = {
+			//
+			//	Broken down all the data that we need to visually see what
+			//	this Lambda uses.
+			//
 			req: {},
 			//
 			//	The default response for Lambda.

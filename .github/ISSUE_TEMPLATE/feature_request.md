@@ -7,9 +7,10 @@ assignees: davidgatti
 ---
 
 # My Problem
+<!-- Explain what problem are you facing as an user on the site. -->
 
-TELL_US_ALL_ABOUT_IT
+
 
 # Solution
+<!-- Explain who would you like the problem to be solved. -->
 
-TELL_US_HOW_WOULD_YOU_LIKE_US_TO_SOLVE_IT

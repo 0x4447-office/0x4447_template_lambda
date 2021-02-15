@@ -2,8 +2,8 @@
 
 🚨 Make sure you adhered to our guidelines.
 
-- [ ] **DO** keep pull requests small so they can be easily reviewed.
-- [ ] **DO** assigne a reviewer if you are not the mantainer.
+- **DO** keep pull requests small so they can be easily reviewed.
+- **DO** assigned a reviewer if you are not the maintainer.
 
 ## Pull request type
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
@@ -19,23 +19,18 @@ Please check the type of change your PR introduces:
 - [ ] Other (please describe):
 
 ## Description
-<!-- Please give a general description about the new code. -->
+<!-- Please give a general description about the new code. And add screenshots or videos if needed. -->
 
 
-
-## What is the new behavior?
-<!-- Please describe the behavior or changes that are being added by this PR. -->
-
--
--
--
 
 ## Does this introduce a breaking change?
 
 - [ ] Yes
 - [ ] No
 
-## Other information
-<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change etc. -->
+## IF breaking change!
+<!-- What other part of the project should we update first before merging this PR? -->
 
-**Issue(s)**: #NR
+
+
+**Issue(s) this PR closes**: #NR
